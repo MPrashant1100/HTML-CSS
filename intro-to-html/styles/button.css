@@ -1,0 +1,36 @@
+.subscribe-button {
+  background-color: rgb(186, 13, 13);
+  width: 130px;
+  height: 40px;
+  font-size: 20px;
+  color: white;
+  border-style: none;
+  border-radius: 5px;
+  margin-right: 8px;
+  cursor: pointer;
+}
+.join-button {
+  background-color: rgb(255, 254, 254);
+  width: 130px;
+  height: 40px;
+  font-size: 20px;
+  color: rgb(31, 24, 231);
+  border-style: solid;
+  border-color: rgb(31, 24, 231);
+  border-radius: 5px;
+  margin-right: 8px;
+  cursor: pointer;
+}
+.facebook-button {
+  background-color: rgb(34, 40, 213);
+  width: 130px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+  border-style: solid;
+  border-color: rgb(31, 24, 231);
+  border-radius: 5px;
+  margin-right: 8px;
+  cursor: pointer;
+}
